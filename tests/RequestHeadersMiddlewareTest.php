@@ -1,6 +1,6 @@
 <?php
 
-namespace webignition\Guzzle\Middleware\HttpAuthentication\Tests;
+namespace webignition\Guzzle\Middleware\RequestHeaders\Tests;
 
 use Psr\Http\Message\RequestInterface;
 use webignition\Guzzle\Middleware\RequestHeaders\RequestHeadersMiddleware;
